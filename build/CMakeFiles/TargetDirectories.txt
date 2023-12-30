@@ -1,0 +1,3 @@
+/home/ancillarycat/ubuntuCode/konkrete/build/CMakeFiles/kkt.dir
+/home/ancillarycat/ubuntuCode/konkrete/build/CMakeFiles/edit_cache.dir
+/home/ancillarycat/ubuntuCode/konkrete/build/CMakeFiles/rebuild_cache.dir
